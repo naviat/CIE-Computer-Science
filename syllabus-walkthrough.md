@@ -20,8 +20,8 @@ These notebooks were originally designed for the [CIE 9608 Computer Science](htt
 
 Having said that, please do read and follow your syllabus specifications—there are some topics I choose not to cover because textbooks already do a good job there. I suspect these notebooks cover other syllabuses or exam boards too, but again—match against the syllabus specifications.
 
-| Syllabuses | Notebooks | Source Code |
-| -- | -- | -- |
+| Syllabuses | Source Code |
+| -- | -- |
 | 0478/2, 0984/2, 9608/2, 9618/2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/naviat/ab0956d238ac567fd50541604baa2b77/section-2-fundamental-problem-solving-and-programming-skills.ipynb) |
 | 9608/4, 9618/4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/naviat/265771e551cc369185d4fd8d191627f6/section-4-further-problem-solving-and-programming-skills.ipynb) |
 
